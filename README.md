@@ -5,6 +5,7 @@ Availability:
 [![Netlify Status](https://api.netlify.com/api/v1/badges/dc4916fd-01e3-4bfc-a368-69d205930b5b/deploy-status)](https://app.netlify.com/sites/r0b3rtg-newsgrid/deploys)
 
 Live link: <https://r0b3rtg-newsgrid.netlify.app/>
+
 <hr/>
 
 Screenshot preview:
