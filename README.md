@@ -1,4 +1,4 @@
-# Newsgrid Site
+# Newsgrid
 
 **Availability:**
 
